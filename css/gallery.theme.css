@@ -17,7 +17,7 @@
      
 }
 .gallery .item {
-  height: 700px;
+  height: 450px;
   overflow: hidden;
   text-align: center;
   background: #f173ce;
@@ -29,10 +29,12 @@
   text-align: center;
 }
 .gallery .control-button {
-  display: inline-block;
+  display:inline-block;
   margin: 0 .02em;
   font-size: 3em;
   text-align: center;
   text-decoration: none;
   transition: color .1s;
+  height: auto;
+  
 }
