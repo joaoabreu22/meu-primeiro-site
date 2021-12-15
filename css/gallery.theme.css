@@ -13,6 +13,8 @@
 */
 .gallery {
   position: relative;
+  width: 100%;
+     
 }
 .gallery .item {
   height: 700px;
