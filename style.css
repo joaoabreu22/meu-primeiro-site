@@ -21,6 +21,12 @@
 body{
     background-color: var(--cor0);
     font-family: var(--fonte-padrao);
+    
+}
+body h1{
+    text-align: center;
+    color: black;
+    
 }
 a.externo::after{
     content: "\00A0\1F517";
